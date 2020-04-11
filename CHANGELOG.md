@@ -1,4 +1,4 @@
-## 1.0.3
+## 1.0.2
 
 - Adding extended_list_view
 
