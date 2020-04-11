@@ -1,3 +1,7 @@
+## 1.0.5
+
+- Adding readme
+
 ## 1.0.4
 
 - Refresh async
