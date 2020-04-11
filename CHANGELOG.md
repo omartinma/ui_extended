@@ -1,3 +1,7 @@
+## 1.0.4
+
+- Refresh async
+
 ## 1.0.3
 
 - Renaming

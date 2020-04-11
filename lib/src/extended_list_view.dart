@@ -33,9 +33,8 @@ class _ExtendedListViewState extends State<ExtendedListView> {
     if (_onRefresh != null) {
       return RefreshIndicator(
           child: _getListViewBuilder(),
-          onRefresh: () {
+          onRefresh: () async {
             _onRefresh();
-            return new Completer().future;
           });
     } else {
       return _getListViewBuilder();
